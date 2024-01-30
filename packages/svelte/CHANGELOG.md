@@ -1,5 +1,11 @@
 # svelte
 
+## 4.2.10
+
+### Patch Changes
+
+- fix: add `scrollend` event type ([#10336](https://github.com/sveltejs/svelte/pull/10336))
+
 ## 4.2.9
 
 ### Patch Changes
